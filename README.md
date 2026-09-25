@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-awaiskhanai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/awaiskhanai/">
-    <img src="https://img.shields.io/badge/LinkedIn-Awais%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Awais%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -242,7 +242,7 @@ My goal is to move beyond simply analyzing data and eventually build **intellige
 </a>
 
 <a href="https://www.linkedin.com/in/awaiskhanai/">
-  <img src="https://img.shields.io/badge/LinkedIn-MuhammadAwais%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Awais%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
