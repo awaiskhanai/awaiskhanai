@@ -1,31 +1,31 @@
 <div align="center">
 
-# 👋 Hi, I'm Awais Khan
+#  Hi, I'm Muhammad Awais Khan
 
-### 🐍 Data Analyst · Python Automation Engineer · 🤖 Aspiring AI Engineer
+### Data Analyst · Python Automation Engineer · Aspiring AI Engineer
 
 <p>
   <a href="https://github.com/awaiskhanai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-awaiskhanai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/awaiskhanai/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Awais%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=awaiskhanai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=awaiskhanai&label=Profile%20Views&style=flat-square" alt="Profile Views">
 
 </div>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I'm a **Computer Science student** focused on building practical solutions with **Python, data, automation, machine learning, and AI**.
+I'm a **Computer Science student** focused on building practical solutions with **Python, Data Analytics, Machine Learning, Automation, and AI**.
 
-I enjoy taking a problem from **raw data → analysis → automation → useful results**.
+I enjoy transforming raw data into useful insights, automating repetitive workflows, and building machine-learning solutions that solve real-world problems.
 
-Currently, I'm expanding my skills toward **AI Engineering and LLM-based applications**, while continuing to strengthen my foundations in Python, data analysis, machine learning, and software development.
+Currently, I'm expanding my skills toward **AI Engineering and LLM-based applications** while strengthening my foundations in Python, data analysis, machine learning, and software development.
 
 ```text
 Data Analytics
@@ -36,198 +36,213 @@ Machine Learning
       ↓
 AI Engineering
       ↓
-LLM Applications & AI Systems
+LLM Applications
 ```
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
-* 🤖 AI Engineering
-* 🧠 Large Language Models (LLMs)
-* 🔗 AI & LLM applications
-* 🐍 Advanced Python
-* 📊 Data Analytics & Machine Learning
-* ⚙️ Automation
-* 🇩🇪 Learning German
+*  AI Engineering
+*  Large Language Models (LLMs)
+*  AI & LLM Applications
+*  Advanced Python
+*  Data Analytics
+*  Machine Learning
+*  Automation
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
-### 💻 Languages
+###  Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Programming Tools">
 </p>
 
-### 📊 Data & Machine Learning
+###  Data & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,jupyter" alt="Data Science Tools">
 </p>
 
-### 🧰 Tools & Development
+###  Analytics & Reporting
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,jupyter,vscode" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
 
-### 📈 Analytics
+###  Database
 
 <p>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </p>
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-<div align="center">
+##  Automated E-Commerce Sales Report
 
-<a href="https://github.com/awaiskhanai/Automated-Ecommerce-Sales-Report">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=awaiskhanai&repo=Automated-Ecommerce-Sales-Report&theme=tokyonight&hide_border=true" />
-</a>
+> **Automated data analysis and business reporting system built with Python.**
 
-<a href="https://github.com/awaiskhanai/Customer-Churn-Predictor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=awaiskhanai&repo=Customer-Churn-Predictor&theme=tokyonight&hide_border=true" />
-</a>
+This project transforms raw e-commerce transaction data into structured analysis and automated business reports.
 
-</div>
+### Key Features
 
-### 🛒 Automated E-Commerce Sales Report
+*  Data cleaning and preprocessing
+*  Revenue and sales analysis
+*  Returns analysis
+*  KPI calculation
+*  Customer analysis
+*  Country-level analysis
+*  Product-level analysis
+*  Automated Excel reporting
+*  Business insights generation
 
-A Python-based automated analytics system that transforms raw e-commerce transaction data into structured analysis and business reports.
+**Tech Stack**
 
-**Highlights:**
+`Python` `Pandas` `Excel` `OpenPyXL` `XlsxWriter` `Jupyter`
 
-* Data cleaning and preprocessing
-* Sales & returns analysis
-* Revenue and KPI calculation
-* Customer, country & product analysis
-* Automated Excel reporting
-* Business insights generation
-
-**Stack:** `Python` `Pandas` `Excel` `OpenPyXL` `XlsxWriter` `Jupyter`
-
-🔗 **[View Repository](https://github.com/awaiskhanai/Automated-Ecommerce-Sales-Report)**
-
----
-
-### 🤖 Customer Churn Predictor
-
-A machine-learning project designed to identify customers who are at higher risk of leaving a service.
-
-**Highlights:**
-
-* Data preprocessing
-* Exploratory data analysis
-* Churn pattern analysis
-* Random Forest classification
-* Model evaluation
-* F1-score & ROC-AUC analysis
-* Prediction threshold tuning
-* Customer churn risk categorization
-
-**Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter`
-
-🔗 **[View Repository](https://github.com/awaiskhanai/Customer-Churn-Predictor)**
+<p>
+  <a href="https://github.com/awaiskhanai/Automated-Ecommerce-Sales-Report">
+    <img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View E-Commerce Project">
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+##  Customer Churn Predictor
 
-<div align="center">
+> **Machine-learning system for identifying customers at risk of churn.**
 
-<a href="https://github.com/awaiskhanai">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=awaiskhanai&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true" />
-</a>
+This project uses customer subscription data to analyze churn patterns and build a machine-learning classification model.
 
-<a href="https://github.com/awaiskhanai">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiskhanai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
+### Key Features
 
-</div>
+*  Data preprocessing
+*  Exploratory data analysis
+*  Churn pattern analysis
+*  Random Forest classification
+*  Model evaluation
+*  F1-score evaluation
+*  ROC-AUC evaluation
+*  Prediction threshold tuning
+*  Customer churn risk categorization
 
----
+**Tech Stack**
 
-# 🔥 Contribution Streak
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Jupyter`
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=awaiskhanai&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=awaiskhanai&theme=github-compact&hide_border=true" />
-
-</div>
+<p>
+  <a href="https://github.com/awaiskhanai/Customer-Churn-Predictor">
+    <img src="https://img.shields.io/badge/🔗%20View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Churn Project">
+  </a>
+</p>
 
 ---
 
-# 🎯 Career Direction
+#  GitHub
+
+My GitHub profile contains my projects, experiments, learning progress, and contributions.
+
+###  Current Work
 
 ```text
-                ┌──────────────────────┐
-                │     Data Analytics   │
-                └──────────┬───────────┘
-                           ↓
-                ┌──────────────────────┐
-                │ Python Automation    │
-                └──────────┬───────────┘
-                           ↓
-                ┌──────────────────────┐
-                │ Machine Learning     │
-                └──────────┬───────────┘
-                           ↓
-                ┌──────────────────────┐
-                │   AI Engineering     │
-                └──────────┬───────────┘
-                           ↓
-                ┌──────────────────────┐
-                │ LLM Applications     │
-                └──────────────────────┘
+ Python
+ Data Analytics
+ Machine Learning
+ Automation
+ AI Engineering
+ LLM Applications
 ```
 
-I'm interested in building practical solutions involving:
+###  Contribution Activity
 
-**Data Analytics · Python Automation · Machine Learning · AI Engineering · LLM Applications**
+My contribution activity is available directly on my GitHub profile, where GitHub automatically displays my public contribution history.
 
----
-
-# 📚 Learning Journey
-
-| Area              | Status                |
-| ----------------- | --------------------- |
-| Python            | 🟢 Building           |
-| Pandas & NumPy    | 🟢 Strongening        |
-| SQL               | 🟢 Learned            |
-| Data Analysis     | 🟢 Building Projects  |
-| Machine Learning  | 🟢 Building Projects  |
-| Python Automation | 🟢 Building Projects  |
-| AI Engineering    | 🟡 Currently Learning |
-| LLM Applications  | 🟡 Exploring          |
-| German            | 🟡 Currently Learning |
+<p align="center">
+  <a href="https://github.com/awaiskhanai">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contributions">
+  </a>
+</p>
 
 ---
 
-# 🤝 Let's Connect
+#  Career Direction
+
+I'm building my skills progressively toward **AI Engineering**.
+
+```text
+┌──────────────────────────┐
+│     Data Analytics       │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│   Python Automation      │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│   Machine Learning       │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│     AI Engineering       │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│    LLM Applications      │
+└──────────────────────────┘
+```
+
+### Areas I'm Interested In
+
+* Data Analytics
+* Python Automation
+* Machine Learning
+* AI Engineering
+* LLM Applications
+* AI Automation
+* Data & Business Intelligence
+
+---
+
+#  Learning Journey
+
+| Skill               | Focus                        |
+| ------------------- | ---------------------------- |
+|  Python           | Advanced Python & Automation |
+|  Pandas / NumPy   | Data Processing & Analysis   |
+|  SQL             | Data Querying                |
+|  Data Analytics   | Practical Business Analysis  |
+|  Machine Learning | Predictive Modeling          |
+|  AI Engineering   | Currently Learning           |
+|  LLM Applications | Currently Exploring          |
+
+---
+
+#  What I'm Building
+
+I'm currently focused on building a strong foundation that connects:
+
+**Data → Automation → Machine Learning → AI**
+
+My goal is to move beyond simply analyzing data and eventually build **intelligent systems that automate tasks, work with data, and solve practical problems using AI.**
+
+---
+
+#  Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/awaiskhanai">
-<img src="https://img.shields.io/badge/GitHub-awaiskhanai-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-awaiskhanai-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/awaiskhanai/">
-<img src="https://img.shields.io/badge/LinkedIn-Awais%20Khan-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Awais%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -238,6 +253,6 @@ I'm interested in building practical solutions involving:
 
 ### 💡 Build. Learn. Automate. Repeat.
 
-**Thanks for visiting my profile! ⭐**
+⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
